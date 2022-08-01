@@ -1,7 +1,8 @@
 # bashrc
 make your terminal cool
 
+nano .bashrc 
 
-nano .bashrc
-go to end line, and add
+go to end line and add
+
 bash /your/script/name.sh
